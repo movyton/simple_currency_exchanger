@@ -1,1 +1,1 @@
-# simple_currency_exchanger
+# simple currency exchanger
